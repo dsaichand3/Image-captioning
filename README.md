@@ -1,2 +1,1 @@
-# image-captioning
-A project of Udacity Computer Vision NanoDegree program.
+The application takes an input image and generates the captions.
