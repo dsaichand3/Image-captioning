@@ -1,2 +1,2 @@
-# Image-captioning
-Generated the captions for an input image.
+# image-captioning
+A project of Udacity Computer Vision NanoDegree program.
